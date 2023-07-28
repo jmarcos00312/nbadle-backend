@@ -8,3 +8,4 @@ venv/
 
 # Ignore .flaskenv file (if it contains sensitive information)
 .flaskenv
+.env
