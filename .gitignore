@@ -1,0 +1,10 @@
+__pycache__/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Python virtual environment directory
+venv/
+
+# Ignore .flaskenv file (if it contains sensitive information)
+.flaskenv
